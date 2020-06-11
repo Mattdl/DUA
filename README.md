@@ -1,5 +1,5 @@
 # Dual User-Adaptation (DUA) framework
-Source code for CVPR2020 paper ["Unsupervised Model Personalization while Preserving Privacy and Scalability: An Open Problem."](https://arxiv.org/abs/2003.13296)
+Source code for CVPR2020 paper ["Unsupervised Model Personalization while Preserving Privacy and Scalability: An Open Problem."](http://openaccess.thecvf.com/content_CVPR_2020/html/De_Lange_Unsupervised_Model_Personalization_While_Preserving_Privacy_and_Scalability_An_Open_CVPR_2020_paper.html)
 
 
 **In short:** Personalization of models to local user images is prone to three main problems: scalability towards thousands of users, retaining user-privacy, and labeling local user data. Our Dual User-Adaptation framework (DUA) unveils a novel perspective to tackle all of these practical concerns and enables personalization on both the server and local user edge-device.
@@ -56,11 +56,12 @@ Results obtained in paper: average accuracy (forgetting).
 ## Citing and License
 Using this code for your research? Consider citing our work:
 ```
-@article{de2020unsupervised,
-  title={Unsupervised Model Personalization while Preserving Privacy and Scalability: An Open Problem},
-  author={De Lange, Matthias and Jia, Xu and Parisot, Sarah and Leonardis, Ales and Slabaugh, Gregory and Tuytelaars, Tinne},
-  journal={arXiv preprint arXiv:2003.13296},
-  year={2020}
+@InProceedings{Lange_2020_CVPR,
+        author = {Lange, Matthias De and Jia, Xu and Parisot, Sarah and Leonardis, Ales and Slabaugh, Gregory and Tuytelaars, Tinne},
+        title = {Unsupervised Model Personalization While Preserving Privacy and Scalability: An Open Problem},
+        booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+        month = {June},
+        year = {2020}
 }
 ```
 

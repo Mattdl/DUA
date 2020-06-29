@@ -66,7 +66,7 @@ Using this code for your research? Consider citing our work:
 ```
 
 This source code is released under a Attribution-NonCommercial-ShareAlike 4.0 International
-license, find out more about it in the [LICENSE file](LICENSE).
+license, hence free to use for research purposes! Find out more about it in the [LICENSE file](LICENSE).
 
 Copyright by Matthias De Lange.
 
